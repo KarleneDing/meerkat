@@ -19,7 +19,7 @@ NotDisabled(Disabled=0)
 
 isDeleted(Deleted=1)
 
-NotDeleted(Deleted=0)
+NotDeletedButDisabled(Deleted=0,Disabled=1)
 
 NotDeletedAndNotDisabled(Disabled=0,Disabled=0)
 
